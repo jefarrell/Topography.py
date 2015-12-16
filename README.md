@@ -1,7 +1,9 @@
 # Topography.py
 ####Automatically generate topographic maps in Python
 
-Step-by-step Jupyter notebook explaining how to automatically generate topographic patterns from photos in Python with OpenCV
+Automatically generate topographic patterns from photos in Python with OpenCV
+
+Step-by-step Jupyter notebook
 
 Also in script form: <pre><code>python topo.py yourImage.jpg</code></pre>
 
